@@ -1,3 +1,5 @@
+Literaturverzeichnis & Zitieren im Hauptdokument
+-----------------------------------------------------------------------------------------------------------------------------------
 Literaturverzeichnis
 
 1. Neues .bib File erstellen
@@ -14,10 +16,16 @@ Literaturverzeichnis
 \bibliographystyle{plain}
 
 -----------------------------------------------------------------------------------------------------------------------------------
+Zitieren im Hauptdokument
+
+- In der .bib Datei wird jede Quelle benannt. (Der Artikel im Beispiel unten hat den Verweis 'first')
+- Der Verweis im Text funktioniert mit \cite{*entsprechender Verweis*}
+
+-----------------------------------------------------------------------------------------------------------------------------------
 Syntax + ausführliche Beschreibung: https://www.heise.de/tipps-tricks/LaTeX-Literaturverzeichnis-erstellen-so-klappt-s-4401420.html
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Beispiel für einen Artikel, der im Lit.Verzeichnis steht:
+Beispiel für einen Artikel, der im Literaturverzeichnis steht:
 
 @article{first, 
 author={J. Brimberg and S. P. Ladany and W. J. Hurley},
