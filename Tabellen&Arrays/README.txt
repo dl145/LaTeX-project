@@ -1,1 +1,0 @@
-read me for Tabellen&Arrays
