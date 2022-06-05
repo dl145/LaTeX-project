@@ -17,7 +17,7 @@ Literaturverzeichnis
 Syntax + ausführliche Beschreibung: https://www.heise.de/tipps-tricks/LaTeX-Literaturverzeichnis-erstellen-so-klappt-s-4401420.html
 -----------------------------------------------------------------------------------------------------------------------------------
 
-Beispiel:
+Beispiel für einen Artikel, der im Lit.Verzeichnis steht:
 
 @article{first, 
 author={J. Brimberg and S. P. Ladany and W. J. Hurley},
