@@ -1,6 +1,6 @@
 Man benutzt Verweise, um automatisiert auf bereits geschriebene Kapitel zu verweisen.
 
-Vorteil: LaTex aktualisiert die Verweise automatisch, wenn sich z.B. Kapitelzahlen ändern
+Vorteil: Die Verweise sind automatisch geändert, wenn sich z.B. Kapitelzahlen ändern
 
 Vorgehensweise:
 1. Im Kapitel, auf das Verwiesen werden soll schreibst du nach dem Befehl \section{xy} \label{sec:xy}
