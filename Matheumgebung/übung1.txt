@@ -1,0 +1,3 @@
+Summenzeichen
+
+- Stelle das Summenzeichen aus dem Bild 'sum' mit eigenem Code in LaTex dar
