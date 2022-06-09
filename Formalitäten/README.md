@@ -17,11 +17,8 @@ Paketnamen:
 
 ### Möglichkeit 2: Umlaute indirekt eingeben
 
-ä - `\"a`
-ö - `\"o`
-ü - `\"u`
-ß - `\ss`
+ä - `\"a`; ö - `\"o`; ü - `\"u`; ß - `\ss`
 
 ## andere Sonderzeichen
 
-[Seite auf Deutsch](https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Sonderzeichen)
+[auf Deutsch](https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Sonderzeichen)
