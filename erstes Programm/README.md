@@ -6,4 +6,4 @@
 - Listen erstellst
 - Kapitel strukturierst
 - die Schriftart und Schriftgröße variierst
-- Quellcode entsprechend einbindest
+- Quellcode vernünftig einbindest
