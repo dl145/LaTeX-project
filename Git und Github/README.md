@@ -2,7 +2,7 @@
 
 - [Git Homepage](https://git-scm.com)
 - [Git Docs](https://git-scm.com/docs) (für speziellere Fragen)
-- [Git Cheat Sheets in versch. Sprachen] (https://training.github.com) (gute schnelle Referenz)
+- [Git Cheat Sheets in versch. Sprachen](https://training.github.com) (gute schnelle Referenz)
 - [Git Ebook](https://git-scm.com/book/en/v2) (für weiteres Interesse und ausführlicheren Verständnis)
 
 # Github
