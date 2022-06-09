@@ -18,8 +18,8 @@
 
 ## Zitieren im Hauptdokument
 
-- In der .bib Datei wird jede Quelle benannt. (Der Artikel im Beispiel unten hat den Verweis 'first')
-- Der Verweis im Text funktioniert mit \cite{*entsprechender Verweis*}
+- In der .bib Datei wurde bereits jede Quelle eindeutig benannt. (Der Artikel im Beispiel unten hat den Verweis `first`)
+- Der Verweis im Text funktioniert mit `\cite{*entsprechender Verweis*}`
 
 ### Syntax & mehr
 [ausführliche Beschreibung](https://www.heise.de/tipps-tricks/LaTeX-Literaturverzeichnis-erstellen-so-klappt-s-4401420.html)
@@ -28,11 +28,4 @@
 
 ...für einen Artikel, der im Literaturverzeichnis steht:
 
-`@article{first,`
-`author={J. Brimberg and S. P. Ladany and W. J. Hurley},`
-`title={Choosing a winning team for mixed medley events},`
-`journal={Int. J. Operational Research},`
-`volume={31},`
-`pages={300 - 312},`
-`year={2018}`
-`}`
+`@article{first, author={J. Brimberg and S. P. Ladany and W. J. Hurley}, title={Choosing a winning team for mixed medley events}, journal={Int. J. Operational Research}, volume={31}, pages={300 - 312}, year={2018}}`
