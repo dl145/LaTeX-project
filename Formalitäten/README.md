@@ -1,7 +1,7 @@
 # Formalitäten
 
 ## Header & Footer
-[auf Englisch](https://de.overleaf.com/learn/latex/Headers_and_footers#Standard_page_styles)
+[Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Headers_and_footers#Standard_page_styles)
 
 ## Umlaute und besondere Buchstaben
 
@@ -21,4 +21,4 @@ Paketnamen:
 
 ## andere Sonderzeichen
 
-[auf Deutsch](https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Sonderzeichen)
+[Seite auf Deutsch](https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Sonderzeichen)
