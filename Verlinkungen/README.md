@@ -6,5 +6,5 @@
 
 Wenn du an Erweiterungen dieses Features interessiert bist. 
 
-[Englisch](https://de.overleaf.com/learn/latex/Hyperlinks)
+[Englisch](https://de.overleaf.com/learn/latex/Hyperlinks);
 [Deutsch](https://www.namsu.de/Extra/pakete/Hyperref.html)
