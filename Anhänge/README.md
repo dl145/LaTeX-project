@@ -6,4 +6,4 @@
 
 ## ausführliche Erklärung
 
-[auf Englisch](https://latex-tutorial.com/latex-appendix/)
+[Tutorial](https://latex-tutorial.com/latex-appendix/)
