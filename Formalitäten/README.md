@@ -4,6 +4,8 @@
 1. [Header & Footer](#1)
 2. [Umlaue und besondere Buchstaben](#2)
 3. [andere Sonderzeichen](#3)
+4. [Seitenzahlen](#4)
+5. [Fußnoten/Randbemerkungen](#5)
 
 ## Header & Footer <a name="1"></a>
 [Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Headers_and_footers#Standard_page_styles)
@@ -27,3 +29,17 @@ Paketnamen:
 ## andere Sonderzeichen <a name="3"></a>
 
 [Seite auf Deutsch](https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Sonderzeichen)
+
+## Seitenzahlen <a name="4"></a>
+
+- es bieten sich verschiedene Möglichkeiten von Nummerierungen an+
+- oft werden z.B. Einleitungen/Vorworte separat gezählt
+
+[Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Page_numbering)
+
+## Fußnoten/Randbemerkungen <a name="4"></a>
+
+- Randnotizen: `\marginpar[*Position auf der Seite*]{*Notiz*}`
+- Fußnoten: `\footnote{*Notiz*}`
+
+weiterführende Erklärungen zu [Randnotizen](https://de.overleaf.com/learn/latex/Margin_notes); [Fußnoten](https://de.overleaf.com/learn/latex/Footnotes)
