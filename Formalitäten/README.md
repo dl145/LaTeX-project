@@ -32,12 +32,12 @@ Paketnamen:
 
 ## Seitenzahlen <a name="4"></a>
 
-- es bieten sich verschiedene Möglichkeiten von Nummerierungen an+
+- es bieten sich verschiedene Möglichkeiten von Nummerierungen an
 - oft werden z.B. Einleitungen/Vorworte separat gezählt
 
 [Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Page_numbering)
 
-## Fußnoten/Randbemerkungen <a name="4"></a>
+## Fußnoten/Randbemerkungen <a name="5"></a>
 
 - Randnotizen: `\marginpar[*Position auf der Seite*]{*Notiz*}`
 - Fußnoten: `\footnote{*Notiz*}`
