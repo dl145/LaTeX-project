@@ -1,13 +1,18 @@
 # Formalitäten
 
-## Header & Footer
+## Inhalt
+1. [Header & Footer](#1)
+2. [Umlaue und besondere Buchstaben](#2)
+3. [andere Sonderzeichen](#3)
+
+## Header & Footer <a name="1"></a>
 [Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Headers_and_footers#Standard_page_styles)
 
-## Umlaute und besondere Buchstaben
+## Umlaute und besondere Buchstaben <a name="2"></a>
 
 LaTex erkennet die Umlaute ä,ö,ü oder das Zeichen ß nicht. Es gibt zwei Möglichkeiten, um sie verwenden zu können.
 
-### Möglichkeit 1: Paket einbinden & Buchstaben normal verwenden
+### Möglichkeit 1: Paket einbinden & Buchstaben normal verwenden 
 
 Paketnamen: 
 
@@ -19,6 +24,6 @@ Paketnamen:
 
 ä - `\"a`; ö - `\"o`; ü - `\"u`; ß - `\ss`
 
-## andere Sonderzeichen
+## andere Sonderzeichen <a name="3"></a>
 
 [Seite auf Deutsch](https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Sonderzeichen)
