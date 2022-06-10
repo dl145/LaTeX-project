@@ -7,6 +7,7 @@
 1. [(Unter)Kapitel](#1)
 2. [Inhaltsverzeichnis](#2)
 3. [Glossar](#3)
+4. [Verlinkungen](#4)
 
 ## (Unter)Kapitel <a name="1"></a>
 
@@ -41,7 +42,7 @@ Stichwörterverzeichnis
 
 [ausführliche Erklärung](https://de.overleaf.com/learn/latex/Glossaries)
 
-## Verlinkungen
+## Verlinkungen <a name="4"></a>
 
 Ermöglicht eine schnelle Navigation im PDF Dokument zu den Abschnitten.
 
