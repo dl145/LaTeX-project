@@ -12,7 +12,7 @@
 
 ## Umlaute und besondere Buchstaben <a name="2"></a>
 
-LaTex erkennet die Umlaute ä,ö,ü oder das Zeichen ß nicht. Es gibt zwei Möglichkeiten, um sie verwenden zu können.
+LaTex erkennet die Umlaute ä, ö, ü oder das Zeichen ß nicht. Es gibt zwei Möglichkeiten, um sie verwenden zu können.
 
 ### Möglichkeit 1: Paket einbinden & Buchstaben normal verwenden 
 
