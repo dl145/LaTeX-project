@@ -5,7 +5,7 @@
 2. [Umlaue und besondere Buchstaben](#2)
 3. [andere Sonderzeichen](#3)
 4. [Seitenzahlen](#4)
-5. [Fußnoten/Randbemerkungen](#5)
+5. [Fußnoten & Randbemerkungen](#5)
 
 ## Header & Footer <a name="1"></a>
 [Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Headers_and_footers#Standard_page_styles)
@@ -37,7 +37,7 @@ Paketnamen:
 
 [Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Page_numbering)
 
-## Fußnoten/Randbemerkungen <a name="5"></a>
+## Fußnoten & Randbemerkungen <a name="5"></a>
 
 - Randnotizen: `\marginpar[*Position auf der Seite*]{*Notiz*}`
 - Fußnoten: `\footnote{*Notiz*}`
