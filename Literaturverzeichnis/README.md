@@ -28,4 +28,10 @@
 
 ...für einen Artikel, der im Literaturverzeichnis steht:
 
-`@article{first, author={J. Brimberg and S. P. Ladany and W. J. Hurley}, title={Choosing a winning team for mixed medley events}, journal={Int. J. Operational Research}, volume={31}, pages={300 - 312}, year={2018}}`
+```
+@article{first, author={J. Brimberg and S. P. Ladany and W. J. Hurley}, 
+title={Choosing a winning team for mixed medley events}, 
+journal={Int. J. Operational Research}, 
+volume={31}, pages={300 - 312}, 
+year={2018}}
+```
