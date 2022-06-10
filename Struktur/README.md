@@ -40,3 +40,11 @@ Stichwörterverzeichnis
 ```
 
 [ausführliche Erklärung](https://de.overleaf.com/learn/latex/Glossaries)
+
+## Verlinkungen
+
+Ermöglicht eine schnelle Navigation im PDF Dokument zu den Abschnitten.
+
+- Paket mit `\usepackage{hyperref}` einbinden
+
+Wenn du an [Erweiterungen](https://de.overleaf.com/learn/latex/Hyperlinks) interessiert bist.
