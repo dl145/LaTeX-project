@@ -4,4 +4,4 @@ Auf [dieser Seite](https://de.overleaf.com/learn/latex/Errors) sind typische Feh
 
 ## Bekannte und hilfreiche Foren
 
-- [Stackoverflow](https://stackoverflow.com/)
+- [Stack Overflow](https://stackoverflow.com/)
