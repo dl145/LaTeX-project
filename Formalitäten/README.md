@@ -1,11 +1,22 @@
 # Formalitäten
 
 ## Inhalt
-1. [Header & Footer](#1)
-2. [Umlaue und besondere Buchstaben](#2)
-3. [andere Sonderzeichen](#3)
-4. [Seitenzahlen](#4)
-5. [Fußnoten & Randbemerkungen](#5)
+1. [Fett, Kursiv, Unterstrichen](#6)
+2. [Header & Footer](#1)
+3. [Umlaue und besondere Buchstaben](#2)
+4. [andere Sonderzeichen](#3)
+5. [Seitenzahlen](#4)
+6. [Fußnoten & Randbemerkungen](#5)
+
+## Fett, Kursiv, Unterstrichen <a name="6"></a>
+
+- Fett: `\textbf{...}`
+- Kursiv: `\textit{...}`
+- Unterstrichen: `\underline{...}`
+
+- Übung: Schreibe das Wort LaTex fett, kursiv und unterstrichen
+
+[Mehr Optionen/Informationen](https://de.overleaf.com/learn/latex/Bold%2C_italics_and_underlining)
 
 ## Header & Footer <a name="1"></a>
 [Erklärung auf Englisch](https://de.overleaf.com/learn/latex/Headers_and_footers#Standard_page_styles)
