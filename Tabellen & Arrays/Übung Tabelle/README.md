@@ -1,4 +1,4 @@
-# Übung zum Erstellen einer Tabelle:
+# Übung zum Erstellen einer Tabelle
 
 - Stelle die Tabelle, die du im Foto 'tabelle1' siehst, in LaTex nach. ↓↓↓
 
