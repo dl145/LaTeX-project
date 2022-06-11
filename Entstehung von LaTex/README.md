@@ -1,7 +1,7 @@
 # Entstehung von LaTex
 
 LaTex ist eine Anwendung, welche die Verwendung von [Tex](https://de.wikipedia.org/wiki/TeX) für den Entwickler sehr vereinfacht und dadurch an Popularität gewann. 
-Erschienen ist es 1984, programmiert vom US-amerikanischen Mathematiker [Leslie Lamport](https://de.wikipedia.org/wiki/Leslie_Lamport)
+Erschienen ist es 1984, programmiert vom US-amerikanischen Mathematiker [Leslie Lamport](https://de.wikipedia.org/wiki/Leslie_Lamport).
 
 ## Tex
 
