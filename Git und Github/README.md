@@ -1,6 +1,6 @@
 # Git
 
-<img src="logo.png" alt="logo" width="200"/>
+<img src="logo.png" alt="logo" width="150"/>
 
  ![logo2](logo2.jpg)
 
