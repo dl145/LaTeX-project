@@ -1,6 +1,8 @@
 # Git
 
-![logo](logo.png) ![logo2](logo2.jpg)
+<img src="logo.png" alt="logo" width="200"/>
+
+ ![logo2](logo2.jpg)
 
 - [Git Homepage](https://git-scm.com)
 - [Git Docs](https://git-scm.com/docs) (für speziellere Fragen)
