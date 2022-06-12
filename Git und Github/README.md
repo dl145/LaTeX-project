@@ -1,5 +1,7 @@
 # Git
 
+![logo](logo.png)
+
 - [Git Homepage](https://git-scm.com)
 - [Git Docs](https://git-scm.com/docs) (für speziellere Fragen)
 - [Git Cheat Sheets in versch. Sprachen](https://training.github.com) (gute schnelle Referenz)
