@@ -1,6 +1,5 @@
 # Dein erstes LaTex Dokument
 
-<img src="latex.png" alt="latex" width="150"/>
 
 ## Du lernst wie man...
 
@@ -10,3 +9,4 @@
 - die Schriftart und Schriftgröße variierst
 - Quellcode vernünftig einbindest
 
+<img src="latex.png" alt="latex" width="250"/>
