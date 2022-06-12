@@ -11,4 +11,4 @@ Der Name ist eine Abkürzung des altgriechischen τέχνη téchnē („Fähigk
 Alle Informationen gekürzt aus Wikipedia entnommen.
 
 
-<img src="knuth.jpg" alt="knuth" width="150"/> <img src="tex.png" alt="tex" width="150"/>
+<img src="knuth.jpg" alt="knuth" width="250"/> <img src="tex.png" alt="tex" width="250"/>
