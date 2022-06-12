@@ -5,3 +5,5 @@ Die Syntax ist einfach und unkompliziert.
 
 - [mehr Informationen / Einordnung](https://de.wikipedia.org/wiki/Markdown)
 - [Cheat Sheet zu Befehlen](https://www.markdownguide.org/cheat-sheet/)
+
+![logo](logo.png)
