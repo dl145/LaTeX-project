@@ -2,14 +2,14 @@
 
 <img src="logo.png" alt="logo" width="150"/>
 
- ![logo2](logo2.jpg)
-
 - [Git Homepage](https://git-scm.com)
 - [Git Docs](https://git-scm.com/docs) (für speziellere Fragen)
 - [Git Cheat Sheets in versch. Sprachen](https://training.github.com) (gute schnelle Referenz)
 - [Git Ebook](https://git-scm.com/book/en/v2) (für weiteres Interesse und ausführlicheren Verständnis)
 
 # Github
+
+<img src="logo2.jpg" alt="logo2" width="150"/>
 
 - [Github Homepage](https://www.github.com)
 - [Github Docs](https://docs.github.com/en)
