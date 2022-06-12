@@ -9,3 +9,6 @@ Erschienen ist es 1984, programmiert vom US-amerikanischen Mathematiker [Leslie 
 Der Name ist eine Abkürzung des altgriechischen τέχνη téchnē („Fähigkeit, Kunstfertigkeit, Handwerk“).
 
 Alle Informationen gekürzt aus Wikipedia entnommen.
+
+
+<img src="knuth.jpg" alt="knuth" width="150"/> <img src="tex.png" alt="tex" width="150"/>
