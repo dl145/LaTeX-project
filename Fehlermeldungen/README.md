@@ -5,3 +5,6 @@ Auf [dieser Seite](https://de.overleaf.com/learn/latex/Errors) sind typische Feh
 ## Bekannte und hilfreiche Foren
 
 - [Stackoverflow](https://stackoverflow.com/)
+
+
+<img src="stackoverflow.png" alt="stackoverflow" width="150"/>
