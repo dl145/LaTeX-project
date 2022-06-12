@@ -14,7 +14,7 @@
 - Kursiv: `\textit{...}`
 - Unterstrichen: `\underline{...}`
 
-Übung: Schreibe das Wort 'LaTex' fett, kursiv und unterstrichen
+Übung: Schreibe das Wort '<ins>***LaTex***<\ins>' fett, kursiv und unterstrichen
 
 [Mehr Optionen/Informationen](https://de.overleaf.com/learn/latex/Bold%2C_italics_and_underlining)
 
