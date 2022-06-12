@@ -1,3 +1,3 @@
 # Overleaf
 
-[Anmeldung](https://de.overleaf.com/) zum Online LaTex Editor
+[Anmeldung](https://de.overleaf.com/) zum kostenlosen Online LaTex Editor
