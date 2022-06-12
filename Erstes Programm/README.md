@@ -7,3 +7,5 @@
 - Kapitel strukturierst
 - die Schriftart und Schriftgröße variierst
 - Quellcode vernünftig einbindest
+
+<img src="latex.png" alt="latex" width="150"/>
