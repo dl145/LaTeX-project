@@ -27,6 +27,8 @@
 
 # Terminal
 
+<img src="logo3.png" alt="logo3" width="150"/>
+
 Generell ist bash zu empfehlen, andere Kommandozeilen wie zsh oder fish bieten nette Extras.
 Ein Terminal-Emulator ([Liste bei Wikipedia](https://en.m.wikipedia.org/wiki/List_of_terminal_emulators)) kann ebenfalls helfen.
 Auf dieser Basis kann weiterer Anpassung geschehen, zum Beispiel können fonts, color scheme und theme geändert werden.
