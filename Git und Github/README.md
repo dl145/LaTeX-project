@@ -1,6 +1,6 @@
 # Git
 
-![logo](logo.png)
+![logo](logo.png) ![logo2](logo2.jpeg)
 
 - [Git Homepage](https://git-scm.com)
 - [Git Docs](https://git-scm.com/docs) (für speziellere Fragen)
