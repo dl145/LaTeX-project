@@ -9,4 +9,4 @@
 - die Schriftart und Schriftgröße variierst
 - Quellcode vernünftig einbindest
 
-<img src="latex.png" alt="latex" width="250"/>
+<img src="latex2.png" alt="latex" width="250"/>
