@@ -48,7 +48,7 @@ Ermöglicht eine schnelle Navigation im PDF Dokument zu den Abschnitten.
 
 - Paket mit `\usepackage{hyperref}` einbinden
 
-Wenn du an Erweiterungen interessiert bist.
+Wenn du an Erweiterungen interessiert bist:
 [Englisch](https://de.overleaf.com/learn/latex/Hyperlinks);
 [Deutsch](https://www.namsu.de/Extra/pakete/Hyperref.html)
 
