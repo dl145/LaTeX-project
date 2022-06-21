@@ -28,8 +28,12 @@ Es gibt [weitere Unterteilungen](https://de.overleaf.com/learn/latex/Sections_an
 Stichwörterverzeichnis
 
 1. Paket einbinden mit `\usepackage{glossaries}`
-2. An gewünschte Seite `\makeglossaries` schreiben
-3. Beispiel für einen Eintrag:
+2. An gewünschte Seite `\printglossaries` schreiben
+
+Einträge in der Präambel reinschreiben.
+
+1. Zuerst `\makeglossaries` schreiben
+2. Beispiel für einen Eintrag:
 
 ```
 \newglossaryentry{latex}
