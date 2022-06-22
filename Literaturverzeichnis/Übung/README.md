@@ -1,4 +1,4 @@
-# Übung zum Erstellen von einem Literaturverzeichnis
+# Übung für das Erstellen von einem Literaturverzeichnis
 
 - Es soll ein Literaturverzeichnis angelegt werden, in dem die folgenden Quellen mit allen nötigen Informationen verlinkt werden sollen.
 
