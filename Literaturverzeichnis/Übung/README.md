@@ -7,4 +7,6 @@
 3. [Diese Webseite](https://de.wikipedia.org/wiki/Git)
 4. Kapitel 5.3 aus [diesem Buch](https://www.google.de/books/edition/Clean_Code_Refactoring_Patterns_Testen_u/zJZbAgAAQBAJ?hl=de&gbpv=1)
 5. Definitionen entnommen [hier](https://www.mdr.de/wissen/was-ist-zeit-raumzeit-100.html)
-6. Die Bücher zu diesen ISBN: 0201896834 / 9780201896831, 0201896842 / 9780201896848, 0201896850 / 9780201896855, 0201038048 / 9780201038040 (Seite 82)
+6. Die Bücher zu diesen ISBN: 0201896834 / 9780201896831, 0201896842 / 9780201896848, 0201896850 / 9780201896855, 0201038048 / 9780201038040
+7. Seite 82 vom verlinkten PDF: 
+ 
