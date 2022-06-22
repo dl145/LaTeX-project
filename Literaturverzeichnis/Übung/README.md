@@ -10,3 +10,9 @@
 6. Die Bücher zu diesen ISBN: 0201896834 / 9780201896831, 0201896842 / 9780201896848, 0201896850 / 9780201896855, 0201038048 / 9780201038040
 7. Seite 82 vom verlinkten PDF im Ordner
  
+
+```
+\addcontentsline{toc}{section}{Literatur}
+\bibliography{Literatur}
+\bibliographystyle{plain}
+```
