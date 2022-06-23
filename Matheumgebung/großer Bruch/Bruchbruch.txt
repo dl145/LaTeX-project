@@ -1,0 +1,10 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+
+\begin{document}
+
+
+$\frac{\frac{2}{\frac{2}{\frac{2}{1}}}}{\frac{\frac{2}{\frac{1}{2}}}{2}}$
+
+\end{document}
