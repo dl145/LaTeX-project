@@ -3,11 +3,11 @@
 
 ## Du lernst wie man...
 
-- Bilder in ein Dokument einfügst
-- Listen erstellst
-- Kapitel strukturierst
-- die Schriftart und Schriftgröße variierst
-- Quellcode vernünftig einbindest
+- Bilder in ein Dokument einfügt
+- Listen erstellt
+- Kapitel strukturiert
+- die Schriftart und Schriftgröße variiert
+- Quellcode vernünftig einbindet
 
 
 <img src="latex2.png" alt="latex" width="350"/>
