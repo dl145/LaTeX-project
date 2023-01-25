@@ -7,7 +7,7 @@
 - Listen erstellt
 - Kapitel strukturiert
 - die Schriftart und Schriftgröße variiert
-- Quellcode vernünftig einbindet
+- Quellcode einbindet
 
 
 <img src="latex2.png" alt="latex" width="350"/>
