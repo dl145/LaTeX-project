@@ -1,7 +1,7 @@
 # Dein erstes LaTex Dokument
 
 
-## Du lernst wie man...
+## Du lernst, wie man...
 
 - Bilder in ein Dokument einfügt
 - Listen erstellt
